@@ -1,0 +1,23 @@
+# Terraform .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Terraform .tfvars files that may contain sensitive data
+*.tfvars
+
+# Terraform plan files
+*.tfplan
+
+# Terraform modules
+.terraform/
+
+# Terraform provider plugins
+*.terraform.d/
+
+# Logs
+*.log
+
+# Editor files
+*.backup
+*.bak
+*~
