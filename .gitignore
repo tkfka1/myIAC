@@ -21,3 +21,4 @@
 *.backup
 *.bak
 *~
+.DS_Store
